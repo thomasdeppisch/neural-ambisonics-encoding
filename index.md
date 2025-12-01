@@ -24,7 +24,7 @@ This website provides audio examples for the manuscript T. Deppisch, Y. Gao, M. 
 ## Within-Domain Examples
 ### Multi-Source Mixtures
 <div class="player">
-    <ts-track title="Label">
+    <ts-track title="Reference">
         <ts-source src="audio/mixture_0_label.wav"></ts-source>
     </ts-track>
     <ts-track title="Linear Encoder">
@@ -51,7 +51,7 @@ This website provides audio examples for the manuscript T. Deppisch, Y. Gao, M. 
 </div>
 
 <div class="player">
-    <ts-track title="Label">
+    <ts-track title="Reference">
         <ts-source src="audio/mixture_1_label.wav"></ts-source>
     </ts-track>
     <ts-track title="Linear Encoder">
@@ -79,7 +79,7 @@ This website provides audio examples for the manuscript T. Deppisch, Y. Gao, M. 
 
 ### Single-Source Examples
 <div class="player">
-    <ts-track title="Label">
+    <ts-track title="Reference">
         <ts-source src="audio/reverberant_0_label.wav"></ts-source>
     </ts-track>
     <ts-track title="Linear Encoder">
@@ -106,7 +106,7 @@ This website provides audio examples for the manuscript T. Deppisch, Y. Gao, M. 
 </div>
 
 <div class="player">
-    <ts-track title="Label">
+    <ts-track title="Reference">
         <ts-source src="audio/reverberant_1_label.wav"></ts-source>
     </ts-track>
     <ts-track title="Linear Encoder">
@@ -133,7 +133,7 @@ This website provides audio examples for the manuscript T. Deppisch, Y. Gao, M. 
 </div>
 
 <div class="player">
-    <ts-track title="Label">
+    <ts-track title="Reference">
         <ts-source src="audio/reverberant_2_label.wav"></ts-source>
     </ts-track>
     <ts-track title="Linear Encoder">
@@ -161,7 +161,7 @@ This website provides audio examples for the manuscript T. Deppisch, Y. Gao, M. 
 
 ## Out-of-Domain Dataset
 <div class="player">
-    <ts-track title="Label">
+    <ts-track title="Reference">
         <ts-source src="audio/treble_0_label.wav"></ts-source>
     </ts-track>
     <ts-track title="Linear Encoder">
@@ -188,7 +188,7 @@ This website provides audio examples for the manuscript T. Deppisch, Y. Gao, M. 
 </div>
 
 <div class="player">
-    <ts-track title="Label">
+    <ts-track title="Reference">
         <ts-source src="audio/treble_1_label.wav"></ts-source>
     </ts-track>
     <ts-track title="Linear Encoder">
@@ -215,7 +215,7 @@ This website provides audio examples for the manuscript T. Deppisch, Y. Gao, M. 
 </div>
 
 <div class="player">
-    <ts-track title="Label">
+    <ts-track title="Reference">
         <ts-source src="audio/treble_2_label.wav"></ts-source>
     </ts-track>
     <ts-track title="Linear Encoder">
@@ -242,7 +242,7 @@ This website provides audio examples for the manuscript T. Deppisch, Y. Gao, M. 
 </div>
 
 <div class="player">
-    <ts-track title="Label">
+    <ts-track title="Reference">
         <ts-source src="audio/treble_3_label.wav"></ts-source>
     </ts-track>
     <ts-track title="Linear Encoder">
