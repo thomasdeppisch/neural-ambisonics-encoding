@@ -19,7 +19,7 @@ layout: default
 </script>
 
 # Residual Learning for Neural Ambisonics Encoders
-This website provides audio examples for the manuscript Deppisch et al., "Residual Learning for Neural Ambisonics Encoders," 2025.
+This website provides audio examples for the manuscript T. Deppisch, Y. Gao, M. Mittal, B. Stahl, C. Hold, D. Alon, and Z. Ben-Hur, "Residual Learning for Neural Ambisonics Encoders," 2025.
 
 ## Within-Domain Examples
 ### Multi-Source Mixtures
