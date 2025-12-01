@@ -27,6 +27,9 @@ This website provides audio examples for the manuscript Deppisch et al., "Residu
     <ts-track title="Label">
         <ts-source src="audio/mixture_0_label.wav"></ts-source>
     </ts-track>
+    <ts-track title="Linear Encoder">
+        <ts-source src="audio/mixture_0_linear_enc.wav"></ts-source>
+    </ts-track>
     <ts-track title="UNet">
         <ts-source src="audio/mixture_0_unetog.wav"></ts-source>
     </ts-track>
@@ -50,6 +53,9 @@ This website provides audio examples for the manuscript Deppisch et al., "Residu
 <div class="player">
     <ts-track title="Label">
         <ts-source src="audio/mixture_1_label.wav"></ts-source>
+    </ts-track>
+    <ts-track title="Linear Encoder">
+        <ts-source src="audio/mixture_1_linear_enc.wav"></ts-source>
     </ts-track>
     <ts-track title="UNet">
         <ts-source src="audio/mixture_1_unetog.wav"></ts-source>
@@ -76,6 +82,9 @@ This website provides audio examples for the manuscript Deppisch et al., "Residu
     <ts-track title="Label">
         <ts-source src="audio/reverberant_0_label.wav"></ts-source>
     </ts-track>
+    <ts-track title="Linear Encoder">
+        <ts-source src="audio/reverberant_0_linear_enc.wav"></ts-source>
+    </ts-track>
     <ts-track title="UNet">
         <ts-source src="audio/reverberant_0_unetog.wav"></ts-source>
     </ts-track>
@@ -100,6 +109,9 @@ This website provides audio examples for the manuscript Deppisch et al., "Residu
     <ts-track title="Label">
         <ts-source src="audio/reverberant_1_label.wav"></ts-source>
     </ts-track>
+    <ts-track title="Linear Encoder">
+        <ts-source src="audio/reverberant_1_linear_enc.wav"></ts-source>
+    </ts-track>
     <ts-track title="UNet">
         <ts-source src="audio/reverberant_1_unetog.wav"></ts-source>
     </ts-track>
@@ -123,6 +135,9 @@ This website provides audio examples for the manuscript Deppisch et al., "Residu
 <div class="player">
     <ts-track title="Label">
         <ts-source src="audio/reverberant_2_label.wav"></ts-source>
+    </ts-track>
+    <ts-track title="Linear Encoder">
+        <ts-source src="audio/reverberant_2_linear_enc.wav"></ts-source>
     </ts-track>
     <ts-track title="UNet">
         <ts-source src="audio/reverberant_2_unetog.wav"></ts-source>
@@ -149,6 +164,9 @@ This website provides audio examples for the manuscript Deppisch et al., "Residu
     <ts-track title="Label">
         <ts-source src="audio/treble_0_label.wav"></ts-source>
     </ts-track>
+    <ts-track title="Linear Encoder">
+        <ts-source src="audio/treble_0_linear_enc.wav"></ts-source>
+    </ts-track>
     <ts-track title="UNet">
         <ts-source src="audio/treble_0_unetog.wav"></ts-source>
     </ts-track>
@@ -172,6 +190,9 @@ This website provides audio examples for the manuscript Deppisch et al., "Residu
 <div class="player">
     <ts-track title="Label">
         <ts-source src="audio/treble_1_label.wav"></ts-source>
+    </ts-track>
+    <ts-track title="Linear Encoder">
+        <ts-source src="audio/treble_1_linear_enc.wav"></ts-source>
     </ts-track>
     <ts-track title="UNet">
         <ts-source src="audio/treble_1_unetog.wav"></ts-source>
@@ -197,6 +218,9 @@ This website provides audio examples for the manuscript Deppisch et al., "Residu
     <ts-track title="Label">
         <ts-source src="audio/treble_2_label.wav"></ts-source>
     </ts-track>
+    <ts-track title="Linear Encoder">
+        <ts-source src="audio/treble_2_linear_enc.wav"></ts-source>
+    </ts-track>
     <ts-track title="UNet">
         <ts-source src="audio/treble_2_unetog.wav"></ts-source>
     </ts-track>
@@ -220,6 +244,9 @@ This website provides audio examples for the manuscript Deppisch et al., "Residu
 <div class="player">
     <ts-track title="Label">
         <ts-source src="audio/treble_3_label.wav"></ts-source>
+    </ts-track>
+    <ts-track title="Linear Encoder">
+        <ts-source src="audio/treble_3_linear_enc.wav"></ts-source>
     </ts-track>
     <ts-track title="UNet">
         <ts-source src="audio/treble_3_unetog.wav"></ts-source>
