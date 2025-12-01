@@ -1,0 +1,8 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Residual Learning for Neural Ambisonics Encoders
+description: [Demo website for the paper "Residual Learning for Neural Ambisonics Encoders"]
+
+markdown: kramdown
